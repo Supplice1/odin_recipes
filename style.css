@@ -1,0 +1,24 @@
+.header {
+    background-color: white;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.link {
+    background-color: black;
+    color: blue;
+}
+
+p {
+    background-color: yellow;
+    color: black;
+}
+
+ol {
+    color: red;
+}
+
+ul {
+    color: green;
+}
